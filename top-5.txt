@@ -1,0 +1,63 @@
+🏆 Top 5 Candidate Regions with Coordinates
+🥇 Region 30
+📍 Location: (5.83709, -57.16377)
+
+Anomalies: 82
+Flatness: 97.01%
+Peaks: 1310
+Roughness: 4.35
+Slope: 2.19°
+Remoteness: Deep Amazon rainforest
+
+✅ Why: Extremely flat with a high number of elevation peaks—ideal for identifying elevated platforms or plazas.
+
+🥈 Region 20
+📍 Location: (5.87991, -57.03220)
+
+Anomalies: 86
+Flatness: 85.17%
+Peaks: 1030
+Roughness: 4.97
+Slope: 8.05°
+
+Remoteness: Deep Amazon rainforest
+
+✅ Why: High anomaly density and geomorphological signs of structured terrain.
+
+🥉 Region 17
+📍 Location: (5.88163, -57.03708)
+
+Anomalies: 76
+Flatness: 84.81%
+Peaks: 1062
+Roughness: 5.05
+Slope: 7.77°
+
+Remoteness: Deep Amazon rainforest
+
+✅ Why: Balanced terrain features with strong elevation organization suggest potential ceremonial or residential structures.
+
+4️⃣ Region 19
+📍 Location: (5.87990, -57.05996)
+
+Anomalies: 98
+Flatness: 6.43%
+Peaks: 1030
+Roughness: 5.49
+Slope: 6.74°
+
+Remoteness: Deep Amazon rainforest
+
+✅ Why: The highest anomaly count despite lower flatness—may indicate eroded or concealed archaeological sites.
+
+5️⃣ Region 32
+📍 Location: (5.83194, -57.16926)
+
+Anomalies: 40
+Flatness: 92.62%
+Peaks: 1238
+Roughness: 5.04
+Slope: 3.35°
+Remoteness: Deep Amazon rainforest
+
+✅ Why: Highly flat and remote region with structured topography—potential for ancient platform-based settlements.

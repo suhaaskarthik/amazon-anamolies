@@ -1,4 +1,4 @@
-# amazon-anamolies
+# Amazon anamoly detection
 Uses AI algorithms that goes through satellite imagery to indicate presence of ancient civilisations
 
 This is again a submission for a kaggle competition pls check out my writeup in kaggle, this also utilises one more satellite NASA's GEDI open-source lidar data that hasn't been published in my kaggle notebook. This is because this data had many discrepencies across the amazon regions, hence wasn't very reliable for this project
